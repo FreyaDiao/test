@@ -7,3 +7,5 @@ This is just a git study test file.
 创建了分支feature1
 
 不想使用Fast Forward 合并分支
+
+测试修复bug分支
