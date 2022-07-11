@@ -1,6 +1,6 @@
 const calc = (a: number, b: number, type?: string): number => {
   switch (type) {
-    case 'mutiply':
+    case 'multiply':
       return a * b
     case 'divide':
       return a / b
