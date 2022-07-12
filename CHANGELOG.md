@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/FreyaDiao/test/compare/v1.1.0...v1.2.0) (2022-07-12)
+
+
+### Features
+
+* add multiply and divide calc ([3b7b94e](https://github.com/FreyaDiao/test/commit/3b7b94ed7d976eb39cdc63dd09070e86220af0f1))
+
 # [1.2.0](https://github.com/FreyaDiao/test/compare/v1.1.0...v1.2.0) (2022-07-11)
 
 
