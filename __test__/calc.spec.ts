@@ -11,7 +11,3 @@ test('The plus calculation result should be 100.', () => {
 test('The multiply calculation result should be 900.', () => {
   expect(calc(30, 30, 'multiply')).toBe(900)
 })
-
-test('The divide calculation result should be 1.', () => {
-  expect(calc(30, 30, 'divide')).toBe(1)
-})
